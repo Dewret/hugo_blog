@@ -1,0 +1,36 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Dewret"
+theme = "hugo-lithium-theme"
+googleAnalytics = "UA-81141436-1"
+disqusShortname = "wwwdewretcoza"
+
+[permalinks]
+        post = "/:year/:month/:title/"
+        code = "/:filename/"
+        page = "/:title/"
+        about = "/:filename/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/dewret"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/dewretsa"
+
+[params]
+    description = "random thoughts in digital representation"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+
+[taxonomies]
+        tag = "tags"
+        category = "categories"
+        series = "series"
+
