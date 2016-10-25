@@ -1,4 +1,4 @@
-baseurl = "http://100.100.100.251:1313/"
+baseurl = "http://www.dewret.co.za/"
 languageCode = "en-us"
 title = "Dewret"
 theme = "hyde"
