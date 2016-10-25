@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "http://100.100.100.251:1313/"
 languageCode = "en-us"
 title = "Dewret"
-theme = "hugo-lithium-theme"
+theme = "hyde"
 googleAnalytics = "UA-81141436-1"
 disqusShortname = "wwwdewretcoza"
 
@@ -14,20 +14,9 @@ disqusShortname = "wwwdewretcoza"
 [[menu.main]]
     name = "About"
     url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/dewret"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/dewretsa"
 
 [params]
-    description = "random thoughts in digital representation"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
+    description = "third-person, singular, simple, present"
 
 [taxonomies]
         tag = "tags"

@@ -1,6 +1,7 @@
 +++
 date = "2016-07-21T13:31:53Z"
-title = "post two"
+title = "Post two"
+featured_image = "/images/image02.png"
 
 +++
 
