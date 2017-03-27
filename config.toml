@@ -1,6 +1,6 @@
-baseurl = "http://www.dewret.co.za/"
+baseurl = "/"
 languageCode = "en-us"
-title = "Dewret"
+title = "Dewret's Blog"
 theme = "hyde"
 googleAnalytics = "UA-81141436-1"
 disqusShortname = "wwwdewretcoza"
