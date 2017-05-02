@@ -1,5 +1,5 @@
 title = "Dewret"
-baseurl = "www.dewret.co.za"
+baseurl = "https://www.dewret.co.za"
 languageCode = "en-us"
 theme = "startbootstrap-clean-blog"
 canonifyurls = true
