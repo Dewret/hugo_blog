@@ -11,9 +11,6 @@ googleAnalytics = "UA-81141436-1"
 disqusShortname = "wwwdewretcoza"
 enableRobotsTXT = true
 
-[author]
-  name = "Dewret"
-
 [params]
   DateForm = "Mon, Jan 2, 2006"
   Description = "third-person, singular, simple, present"
