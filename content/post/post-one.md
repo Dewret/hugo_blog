@@ -1,11 +1,11 @@
-+++
+---
 date = "2016-07-21T13:27:12Z"
 title = "Post one"
 featured_image = "/images/image01.png"
 tags = ["go", "golang", "templates", "themes"]
 categories = ["Development", "golang"]
 
-+++
+---
 
 # This is the first post
 

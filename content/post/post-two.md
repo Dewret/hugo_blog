@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-07-21T13:31:53Z"
 title = "Post two"
 featured_image = "/images/image02.png"
 
-+++
+---
 
 # This is the second post
 

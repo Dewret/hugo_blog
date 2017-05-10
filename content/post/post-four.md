@@ -1,8 +1,8 @@
-+++
+---
 date = "2016-07-21T13:27:12Z"
 title = "Post four"
 
-+++
+---
 
 # This is the first post
 
