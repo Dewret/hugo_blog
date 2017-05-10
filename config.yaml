@@ -18,12 +18,9 @@ enableRobotsTXT = true
   postSummariesFrontPage = 10
   showReadTime = true
 
-[params.social]
-  title = "twitter"
-  url = "https://twitter.com/dewretsa"
-[params.social]
-  title = "github"
-  url = "https://github.com/dewret"
+[social]
+  twitter = "https://twitter.com/dewretsa"
+  github = "https://github.com/dewret"
 
 [permalinks]
         post = "/:year/:month/:title/"
