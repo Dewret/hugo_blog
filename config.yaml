@@ -18,7 +18,7 @@ enableRobotsTXT = true
   DateForm = "Mon, Jan 2, 2006"
   Description = "third-person, singular, simple, present"
   Author = "Dewret"
-  postSummariesFrontPage = 10 #Number of post summaries to show on front page, comment out to allow default(4)
+  postSummariesFrontPage = 10 #Number of post summaries to show on front page
   showReadTime = true #set to false to exclude read time from header of post
 
 [[params.social]]
