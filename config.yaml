@@ -18,10 +18,10 @@ enableRobotsTXT = true
   postSummariesFrontPage = 10
   showReadTime = true
 
-[[params.social]]
+[params.social]
   title = "twitter"
   url = "https://twitter.com/dewretsa"
-[[params.social]]
+[params.social]
   title = "github"
   url = "https://github.com/dewret"
 
